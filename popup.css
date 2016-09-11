@@ -1,0 +1,26 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 90px;
+}
+
+ul li {
+    list-style: none;
+    height: 26px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    height: 26px;
+    font-size: 12px;
+    line-height: 26px;
+}
+
+li:hover {
+    background-color: lightblue;
+    cursor: pointer;
+}
